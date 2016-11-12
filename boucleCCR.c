@@ -42,6 +42,6 @@ int main(int argc, const char*argv[]) {
         printf("Un autre calcul (o/n)? ");
         scanf(" %c",&encore);
     }
-    return 0
+    return 0;
 }
 
