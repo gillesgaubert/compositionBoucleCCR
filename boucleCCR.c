@@ -40,7 +40,7 @@ int main(int argc, const char*argv[]) {
         profne=(pnarc-1)*10;
         printf("pne (m)= %3.1f\n",profne);
         printf("Un autre calcul (o/n)? ");
-        scnf(" %c",&encore);
+        scanf(" %c",&encore);
     }
     return 0
 }
