@@ -1,2 +1,7 @@
 Avertissement :
-Ce programme s'adresse à
+Ce programme s'adresse aux plongeurs en recycleur à circuit fermé.
+Si vous ne connaissez pas ce terme, ce programme en c vous sera probablement inutile.
+
+Utilisation :
+Le programme se compile avec gcc et ne requier aucune librairies... Il est simplissime.
+
